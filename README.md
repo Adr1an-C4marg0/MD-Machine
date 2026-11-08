@@ -12,16 +12,16 @@ Montar uma base de conhecimento em Prolog (lógica de primeira ordem) a partir d
 - **Recorte:** os **500 jogadores com maior rating clássico** que possuem todos os campos preenchidos (nome, federação, sexo, ano de nascimento, título e os três ratings).
 - **Campos utilizados (8):**
 
-| Campo | Tipo | Exemplo |
+| Campo | Exemplo |
 |---|---|---|
-| Nome | qualitativo | `magnus_carlsen` |
-| Federacao | qualitativo | `nor` |
-| Sexo | qualitativo | `m` |
-| AnoNascimento | quantitativo | `1990` |
-| Titulo | qualitativo | `gm` |
-| RatingClassico | quantitativo | `2830` |
-| RatingRapido | quantitativo | `2820` |
-| RatingBlitz | quantitativo | `2880` |
+| Nome  | `magnus_carlsen` |
+| Federacao  | `nor` |
+| Sexo  | `m` |
+| AnoNascimento | `1990` |
+| Titulo | `gm` |
+| RatingClassico | `2830` |
+| RatingRapido | `2820` |
+| RatingBlitz | `2880` |
 
 ## Conversão dos dados
 
